@@ -1,0 +1,3 @@
+[submodule "proj.src"]
+	path = proj.src
+	url = git://github.com/Vladimir-Voloshin/payever-ch.lvl.git
